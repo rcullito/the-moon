@@ -6,7 +6,7 @@
 
 ### 1. Schema.
 
-For quick iteration I opted to make a json scheme that could be read easily, located in /public/json/rooms.json. I wanted it to be complex enough to require several deployments of drones but simple enough to be able to able to easily determine whether the drones were finding the passages to new rooms correctly. The attached screenshots are meant to illustrate the pattern between network requests and drones identifying new passages. For naming conventions I chose books by Don Delillo, which seemed to fit oddly well as Ganymedian Labyrinth rooms.
+For quick iteration I opted to make a json scheme that could be read easily, located in /public/json/rooms.json. I wanted it to be complex enough to require several deployments of drones but simple enough to be able to able to easily determine whether the drones were finding the passages to new rooms correctly. The attached screenshots are meant to illustrate the pattern between network requests and drones identifying new passages(assuming a labyrinth entrance at Point Omega) For naming conventions I chose books by Don Delillo, which seemed to fit oddly well as Ganymedian Labyrinth rooms.
 
 ![network requests](/public/images/networkRequests.png)
 ![network requests](/public/images/sketchedSchema.jpg)
