@@ -1,4 +1,5 @@
 ## Running the Application
+    cd ganymede
     npm install
     npm start
 
