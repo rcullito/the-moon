@@ -1,0 +1,42 @@
+[
+  {
+    "roomId": "pointOmega",
+    "passages": ["underworld", "fallingMan"],
+    "order": 1,
+    "writing": "Oh voyager, we, the people of Ganymede need your help."
+  },
+  {
+    "roomId": "whiteNoise",
+    "passages": ["cosmopolis"],
+    "order":2,
+    "writing": "The power hungry residents of Io have attacked us, and enlisted us as workers on their volcanic inner moon."
+  },
+  {
+    "roomId": "underworld",
+    "passages": ["pointOmega", "fallingMan", "libra"],
+    "order":3,
+    "writing": "If you are reading this before 2030, there is still time!"
+  },
+  {
+    "roomId": "fallingMan",
+    "passages": ["underworld", "pointOmega"],
+    "order": 4,
+    "writing": "But you must act quickly as we robots cannot survive much longer under the unexpected gravitational shift."
+  },
+  {
+    "roomId": "libra",
+    "passages": ["underworld", "mao2", "cosmopolis"],
+    "order": 5,
+    "writing": "The labyrinth remains at your disposal as an outpost, just remember to close the boulder on your way out."
+  },
+  {
+    "roomId": "cosmopolis",
+    "passages": ["libra", "mao2", "whiteNoise"],
+    "order": 6,
+    "writing": "Now is the time for all good men to come to the aid of their moon."
+  },
+  {
+    "roomId": "mao2",
+    "passages": ["libra", "cosmopolis"]
+  }
+]
